@@ -1,0 +1,11 @@
+Roll,Name,Address,Salary,Date
+1,'Ram','Butwal',20000,2026-02-03
+2,'Hari','Biratnagar',30000,2026-02-03
+3,'Rohan','Dharan',20000,2026-02-03
+4,,'Dharan',10000,2026-02-03
+5,'Ram',,,2026-02-03
+6,'Kayashta','Itahari',20000,2026-02-03
+7,'Shyam','Butwal',20000,2026-02-03
+8,,'Itahari',200,2026-02-03
+9,'Rahul',,,2026-02-03
+10,'Manoj','Butwal',60000,2026-02-03

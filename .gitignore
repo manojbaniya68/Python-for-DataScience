@@ -4,3 +4,5 @@ __pycache__
 tutorials
 files
 lab
+titanic.csv
+titanic.ipynb
